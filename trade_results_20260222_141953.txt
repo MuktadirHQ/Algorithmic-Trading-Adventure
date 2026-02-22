@@ -1,0 +1,6 @@
+Symbol: MSFT
+PnL: 0.0
+Trades:
+Empty DataFrame
+Columns: [Side, Date, Price, Qty]
+Index: []
