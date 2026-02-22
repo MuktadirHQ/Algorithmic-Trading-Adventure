@@ -7,7 +7,7 @@ Run the moving-average crossover backtest end to end.
 1. Open a terminal in this folder.
 2. (Optional) Create and activate a virtual environment:
 	- `python -m venv venv`
-	- `venv\\Scripts\\activate`
+	- `venv/Scripts/activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the script: `python main.py`
 5. When prompted, enter:
